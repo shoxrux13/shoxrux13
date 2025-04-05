@@ -4,14 +4,14 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://github.com/leverow/)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverow&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/leverow/)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shoxrux13&theme=dark)](https://github.com/shoxrux13/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoxrux13&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/shoxrux13/)</div>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Leverow&show_icons=true&theme=synthwave" alt="Leverow :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoxrux13&show_icons=true&theme=synthwave" alt="Shoxrux13 :: Profile Stats" /></p>
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/leverow/">Azamjon Bakhriddinov</a>
-- Telegram: <a href = "https://t.me/leverow">Leverow</a>
-- Website: <a href = "https://leverow.uz">Leverow.uz</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/shoxrux13/">Azamjon Bakhriddinov</a>
+- Telegram: <a href = "https://t.me/Shoxruxx_13">Shoxrux</a>
+- Website: <a href = "https://zybergroup.uz">zybergroup.uz</a>
 <br>
