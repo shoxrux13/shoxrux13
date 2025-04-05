@@ -1,6 +1,6 @@
 <p align="center">
 <img src="./cover_shoxrux13.png" alt="Shoxrux"/>
-<a href="https://github.com/shoxrux13"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Shoxrux+Ergashev+👋;Bacend developer;Nice+to+meet+you!" /> </a> </p>
+<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Shoxrux+Ergashev+👋;Bacend developer;Nice+to+meet+you!" /> </a> </p>
 
 <div align="center">
 
