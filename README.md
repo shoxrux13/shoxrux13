@@ -11,7 +11,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoxrux13&show_icons=true&theme=synthwave" alt="Shoxrux13 :: Profile Stats" /></p>
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/shoxrux13/">Azamjon Bakhriddinov</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/shoxrux13/">Shoxrux Ergashev</a>
 - Telegram: <a href = "https://t.me/Shoxruxx_13">Shoxrux</a>
 - Website: <a href = "https://zybergroup.uz">zybergroup.uz</a>
 <br>
