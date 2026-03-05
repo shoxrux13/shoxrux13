@@ -77,7 +77,18 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoxrux13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy-shoxrux13.vercel.app/?username=shoxrux13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
@@ -85,7 +96,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxrux13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" />
+  <img src="https://github-readme-activity-graph-shoxrux13.vercel.app/graph?username=shoxrux13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" />
 </p>
 
 ---
