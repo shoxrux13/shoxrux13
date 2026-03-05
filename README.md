@@ -77,7 +77,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://my-profile-trophy.vercel.app/?username=shoxrux13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shoxrux13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
