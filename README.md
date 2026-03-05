@@ -59,16 +59,16 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shoxrux13.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-    <img src="https://github-readme-stats-shoxrux13.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" />
   </picture>
   <img src="https://streak-stats.demolab.com?user=shoxrux13&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shoxrux13.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&hide=html,css" />
-    <img src="https://github-readme-stats-shoxrux13.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&hide=html,css" width="40%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&hide=html,css" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&hide=html,css" width="40%" />
   </picture>
 </p>
 
@@ -86,6 +86,18 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxrux13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" />
+</p>
+
+---
+
+### 🐍 Snake Contribution
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
