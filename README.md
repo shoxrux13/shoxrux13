@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shoxrux+Ergashev;Backend+Developer+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shoxrux+Ergashev;Backend+Developer+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -82,7 +82,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 ---
 
-### � Snake Contribution
+### 🐍 Snake Contribution
 
 <p align="center">
   <picture>
@@ -94,7 +94,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 ---
 
-### �📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxrux13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" />
