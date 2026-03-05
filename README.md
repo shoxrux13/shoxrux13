@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shoxrux+Ergashev;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shoxrux+Ergashev;Backend+Developer+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -58,12 +58,18 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoxrux13&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shoxrux13.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+    <img src="https://github-readme-stats-shoxrux13.vercel.app/api?username=shoxrux13&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" />
+  </picture>
+  <img src="https://streak-stats.demolab.com?user=shoxrux13&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&hide=html,css" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shoxrux13.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&hide=html,css" />
+    <img src="https://github-readme-stats-shoxrux13.vercel.app/api/top-langs/?username=shoxrux13&layout=compact&count_private=true&theme=tokyonight&hide_border=true&hide=html,css" width="40%" />
+  </picture>
 </p>
 
 ---
@@ -80,18 +86,6 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxrux13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shoxrux13/shoxrux13/output/github-snake-dark.svg" />
-  </picture>
 </p>
 
 ---
